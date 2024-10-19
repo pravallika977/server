@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pravallika977/server.git/static/css/main.7019bb20.css",
-    "main.js": "/pravallika977/server.git/static/js/main.a6aad0ca.js",
+    "main.js": "/pravallika977/server.git/static/js/main.c2314cbc.js",
     "index.html": "/pravallika977/server.git/index.html",
     "main.7019bb20.css.map": "/pravallika977/server.git/static/css/main.7019bb20.css.map",
-    "main.a6aad0ca.js.map": "/pravallika977/server.git/static/js/main.a6aad0ca.js.map"
+    "main.c2314cbc.js.map": "/pravallika977/server.git/static/js/main.c2314cbc.js.map"
   },
   "entrypoints": [
     "static/css/main.7019bb20.css",
-    "static/js/main.a6aad0ca.js"
+    "static/js/main.c2314cbc.js"
   ]
 }
