@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pravallika977/server.git/static/css/main.7019bb20.css",
+    "main.js": "/pravallika977/server.git/static/js/main.58cfdb17.js",
+    "index.html": "/pravallika977/server.git/index.html",
+    "main.7019bb20.css.map": "/pravallika977/server.git/static/css/main.7019bb20.css.map",
+    "main.58cfdb17.js.map": "/pravallika977/server.git/static/js/main.58cfdb17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7019bb20.css",
+    "static/js/main.58cfdb17.js"
+  ]
+}
